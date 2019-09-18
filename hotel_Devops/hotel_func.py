@@ -22,7 +22,7 @@ class hotels():
     def searchdate():
         date_array = input("enter date: (year-day-month)").split("-")
         if len(date_array) == 3:
-            date = str(datetime.date(int(date_array[0]), int(date_array[1]), int(date_array[2])))
+            date = str(datetime.date(int(date_array[0]), int(date_array[2]), int(date_array[1])))
             print(date)
         days = input("enter how many days: ")
         boolean = 0

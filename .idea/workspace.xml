@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5925a68-f1fb-40db-9442-f808ce2a1521" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Files/room1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Files/room1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/room2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Files/room2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/room3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Files/room3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/room4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Files/room4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel_Devops/hotel_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/hotel_Devops/hotel_func.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,47 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hotel_Devops/hotel_func.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Files/room1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Files/room2.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Files/room3.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Files/room4.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="153">
+              <caret line="24" column="93" selection-start-line="24" selection-start-column="93" selection-end-line="24" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -102,11 +63,11 @@
         <option value="$PROJECT_DIR$/Hotel Devops/hotel_main.py" />
         <option value="$PROJECT_DIR$/hotel_Devops/hotel_main.py" />
         <option value="$PROJECT_DIR$/hotel_Devops/functions.py" />
-        <option value="$PROJECT_DIR$/hotel_Devops/hotel_func.py" />
         <option value="$PROJECT_DIR$/Files/room1.txt" />
         <option value="$PROJECT_DIR$/Files/room2.txt" />
         <option value="$PROJECT_DIR$/Files/room3.txt" />
         <option value="$PROJECT_DIR$/Files/room4.txt" />
+        <option value="$PROJECT_DIR$/hotel_Devops/hotel_func.py" />
       </list>
     </option>
   </component>
@@ -129,11 +90,6 @@
             <path>
               <item name="HotelMenu" type="b2602c69:ProjectViewProjectNode" />
               <item name="HotelMenu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HotelMenu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HotelMenu" type="462c0819:PsiDirectoryNode" />
-              <item name="Files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HotelMenu" type="b2602c69:ProjectViewProjectNode" />
@@ -304,12 +260,12 @@
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13928182" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13928182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49945593" visible="true" weight="0.37692308" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49945593" visible="true" weight="0.50641024" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -343,13 +299,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hotel_Devops/hotel_func.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Files/room1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -373,8 +322,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Files/room4.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="118">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotel_Devops/hotel_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" column="93" selection-start-line="24" selection-start-column="93" selection-end-line="24" selection-end-column="93" />
         </state>
       </provider>
     </entry>
