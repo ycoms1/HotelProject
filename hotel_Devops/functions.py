@@ -10,7 +10,7 @@ def menu():
             hotels.find_free_rooms()
             boolean = 1
         elif choice == "2":
-            hotels.invitation()
+            hotels.searchdate()
             boolean = 1
         elif choice == "3":
             print("3")
