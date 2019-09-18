@@ -2,10 +2,10 @@ class hotels():
 
     # option-1
     def find_free_rooms():
-        room1 = open("C:/Users/LapTop/Desktop/hotel/room1.txt", "r")
-        room2 = open("C:/Users/LapTop/Desktop/hotel/room1.txt", "r")
-        room3 = open("C:/Users/LapTop/Desktop/hotel/room1.txt", "r")
-        room4 = open("C:/Users/LapTop/Desktop/hotel/room1.txt", "r")
+        room1 = open("C:/Users/LapTop/PycharmProjects/HotelMenu/Files/room1.txt", "r")
+        room2 = open("C:/Users/LapTop/PycharmProjects/HotelMenu/Files/room2.txt", "r")
+        room3 = open("C:/Users/LapTop/PycharmProjects/HotelMenu/Files/room3.txt", "r")
+        room4 = open("C:/Users/LapTop/PycharmProjects/HotelMenu/Files/room4.txt", "r")
         print("\nfor room1 with 2 adults:\n" + str(room1.read()))
         print("\nfor room2 with 2 adults:\n" + str(room2.read()))
         print("\nfor room3 with 3 adults:\n" + str(room3.read()))
@@ -22,15 +22,16 @@ class hotels():
         days = input("enter how many days: ")
         boolean = 0
         while boolean == 0:
-            adults = int(input("enter number of adults: "))
-            if adults == 2:
+            adults = int(input("enter number of adults: (2/3)"))
+
+            if adults == "2":
                 ##################
                 boolean = 1
-            elif adults == 3:
+            elif adults == "3":
                 ####################
                 boolean = 1
             else:
-                print("Enter how many adults (2-3)")
+                print("Invalid input!, try again.")
 
 
 
